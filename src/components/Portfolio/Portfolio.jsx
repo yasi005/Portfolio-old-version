@@ -42,7 +42,7 @@ const Portfolio = () => {
         <div className="portfolio-header">
             <span style={{ fontSize: "3rem", color: "#5FF2D1" }}><AiOutlineFolder /></span>
             <span>
-              <a href="https://github.com/yasiBobo/Calculator" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
+              <a href="" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
               <a href="https://codepen.io/its_yasi/pen/OJrEOrB" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700", paddingLeft: "15px" }}><GoLinkExternal /></a>
             </span>
           </div>
@@ -78,7 +78,7 @@ const Portfolio = () => {
           <div className="portfolio-header">
             <span style={{ fontSize: "3rem", color: "#5FF2D1" }}><AiOutlineFolder /></span>
             <span>
-              <a href="https://github.com/yasiBobo/Snake-Game-" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
+              <a href="" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
               <a href="https://codepen.io/its_yasi/pen/PoXaEJv" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700", paddingLeft: "15px" }}><GoLinkExternal /></a>
             </span>
           </div>
@@ -92,11 +92,11 @@ const Portfolio = () => {
             <span>Inner Css</span>
           </div>
         </a>
-        <a className="portfolio-box" href="https://github.com/yasiBobo/Zoom-On-Images-" target="__blank">
+        <a className="portfolio-box" href="" target="__blank">
           <div className="portfolio-header">
             <span style={{ fontSize: "3rem", color: "#5FF2D1" }}><AiOutlineFolder /></span>
             <span>
-              <a href="https://github.com/yasiBobo/Zoom-On-Images-" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
+              <a href="" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><VscGithubAlt /></a>
             </span>
           </div>
           <div className="portfolio-title">Zoom on image <br /> as much as you want</div>
@@ -113,7 +113,7 @@ const Portfolio = () => {
           <div className="portfolio-header">
             <span style={{ fontSize: "3rem", color: "#5FF2D1" }}><AiOutlineFolder /></span>
             <span>
-            <a href="https://github.com/yasiBobo/Snake-Game-" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700", "marginRight" : '.8rem' }}><VscGithubAlt /></a>
+            <a href="" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700", "marginRight" : '.8rem' }}><VscGithubAlt /></a>
             <a href="https://codepen.io/its_yasi/pen/wvRXPQQ" target="__blank" style={{ fontSize: "1.2rem", color: "#C2CCEC", fontWeight: "700" }}><GoLinkExternal /></a>
             </span>
           </div>

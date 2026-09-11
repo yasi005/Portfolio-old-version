@@ -55,16 +55,16 @@ function App() {
         <a href='https://codepen.io/its_yasi' target='__blank'>
           <FiCodepen />
         </a>
-        <a href="https://www.linkedin.com/in/boboyasi-undefined-15a50428b/" target='__blank'>
+        <a href="" target='__blank'>
           <FiLinkedin />
         </a>
-        <a href="https://t.me/WhOoIsYasi" target='__blank'>
+        <a href="https://t.me/@IIPP005" target='__blank'>
           <FaTelegramPlane />
         </a>
         <a href="https://www.instagram.com/its._.yassii/" target='__blank'>
           <FiInstagram />
         </a>
-        <a href="https://github.com/yasiBobo" target='__blank'>
+        <a href="https://github.com/yasi005" target='__blank'>
           <FiGithub />
         </a>
       </div>

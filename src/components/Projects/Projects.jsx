@@ -76,7 +76,7 @@ const Projects = () => {
             <li>CSS</li>
           </ul>
           <div className="links">
-            <a href='https://github.com/yasiBobo/PHP-News-Website-Project' target="__blank"><VscGithubAlt /></a>
+            <a href='' target="__blank"><VscGithubAlt /></a>
           </div>
         </div>
         <div className="project-image">
@@ -110,7 +110,7 @@ const Projects = () => {
             <li>Grid System</li>
           </ul>
           <div className="links">
-            <a href='https://github.com/yasiBobo/Bitcoin-Website-Project' target="__blank"><VscGithubAlt /></a>
+            <a href='' target="__blank"><VscGithubAlt /></a>
           </div>
         </div>
       </div>
